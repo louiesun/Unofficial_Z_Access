@@ -1,0 +1,2 @@
+*.aardio linguist-language=lua
+*.pac linguist-language=javascript
